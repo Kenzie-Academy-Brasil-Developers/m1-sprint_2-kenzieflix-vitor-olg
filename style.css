@@ -5,6 +5,7 @@
 }
 body{
     background-color: black;
+    overflow: hidden;
 }
 .logo{
   display: flex;
@@ -93,6 +94,7 @@ border-radius: 8px;
 .btn-rodapé{
     display: flex;
     justify-content: center;
+    margin-bottom: 20px;
     
 }
 .btn-rodapé a{
