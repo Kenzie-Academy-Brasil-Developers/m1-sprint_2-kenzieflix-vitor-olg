@@ -91,12 +91,9 @@ border-radius: 8px;
 }
 
 .btn-rodapé{
-   
-    font-size: 30px;
-    
     display: flex;
     justify-content: center;
-    margin-top: 300px;
+    
 }
 .btn-rodapé a{
 border: 1px solid #ffffff;
