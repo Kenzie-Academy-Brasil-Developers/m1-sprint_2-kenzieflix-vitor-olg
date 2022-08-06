@@ -94,20 +94,21 @@ border-radius: 8px;
 .btn-rodapé{
     display: flex;
     justify-content: center;
-    margin-bottom: 20px;
+    margin-top: 70px;
     
 }
 .btn-rodapé a{
 border: 1px solid #ffffff;
 color: #ffffff;
 height: 65px;
-width: 13%;
+width: 15%;
 text-decoration: none;
 display: flex;
 align-items: center;
-padding-left: 35px;
+
 border-radius: 5px;
-font-size: 22px
+font-size: 22px;
+padding: 0 22px;
 }
 
 .box-principal li img:hover{
