@@ -100,15 +100,15 @@ border-radius: 8px;
 .btn-rodapé a{
 border: 1px solid #ffffff;
 color: #ffffff;
-height: 65px;
-width: 15%;
+height: 60px;
+width: 18%;
 text-decoration: none;
 display: flex;
 align-items: center;
 
 border-radius: 5px;
 font-size: 22px;
-padding: 0 22px;
+padding-left: 45px;
 }
 
 .box-principal li img:hover{
